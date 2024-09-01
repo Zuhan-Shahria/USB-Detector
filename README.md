@@ -4,6 +4,10 @@ This application when ran will detect if a USB is injected into your computer an
 ## What do i need to start this program?
 You will need to install to install the pywin32 and requests libraries. You will also need to download Telegram on your mobile device and set up a Telegram bot which will be explained below.
 
+To install pywin32 and requests libraries open up python in command prompt and enter these commands:
 ```
-hello
+pip install requests
+```
+```
+pip install pywin32
 ```
