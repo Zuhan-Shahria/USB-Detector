@@ -11,7 +11,7 @@ pip install requests
 ```
 pip install pywin32
 ```
-Once that is done now you have to set up your Telegram bot:
+Once that is done, now you have to set up your Telegram bot:
 - Download Telegram on your mobile device and create an account if you haven't
 - Open Telegram and search for @BotFather and start a chat with BotFather
 - Use the command '/newbot' to create a new bot
