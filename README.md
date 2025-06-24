@@ -1,7 +1,7 @@
 # USB-Detector
 This application when ran will detect if a USB is injected into your computer and will send a notification to your linked device preferably a mobile device. The notification system is done via Telegram bots which will be explained further.
 
-## What do i need to start this program?
+## What do I need to start this program?
 You will need to install to install the pywin32 and requests libraries. You will also need to download Telegram on your mobile device and set up a Telegram bot which will be explained below.
 
 To install pywin32 and requests libraries open up python in command prompt and enter these commands:
@@ -20,5 +20,5 @@ Once that is done, now you have to set up your Telegram bot:
 
 You will also need your chat ID which can be done by starting a chat with @userinfobot. Enter the command '/start' to get your chat ID.
 
-## How do i start this program?
+## How do I start this program?
 To start the program copy and paste the code to your prefered programming software and replace the text in the TELEGRAM_BOT_TOKEN and CHAT_ID variables with your actual bot token and chat ID.
